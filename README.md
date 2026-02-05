@@ -1,5 +1,6 @@
-mail me at: dev.playarmr@protonmail.com
+“One must still have chaos in oneself to give birth to a dancing star.”
 
+— Nietzsche
 
 <!---
 PlayArMr/PlayArMr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
